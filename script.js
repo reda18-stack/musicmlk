@@ -21,7 +21,7 @@ const notes = [
   {f:262,d:.5,t:"eux&nbsp",p:p2},
   {f:294,d:1,t:"anni",p:p2},
   {f:262,d:1,t:"versaire&nbsp",p:p2},
-  {f:392,d:1,t:"ma;",p:p2},
+  {f:392,d:1,t:"ma",p:p2},
   {f:349,d:2,t:"lak",p:p2},
   
   {f:262,d:.5,t:"Hap",p:p3},
